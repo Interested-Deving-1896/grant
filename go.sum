@@ -408,8 +408,8 @@ github.com/fsnotify/fsnotify v1.10.1/go.mod h1:TLheqan6HD6GBK6PrDWyDPBaEV8LspOxv
 github.com/gabriel-vasile/mimetype v1.4.15 h1:05iP/CYtZ/w455R/KZM6rZ5ieAdh99UPtd+d3YzLmaI=
 github.com/gabriel-vasile/mimetype v1.4.15/go.mod h1:azpTcoLcDZRNgFou5j+APrqQx9HqVPWa6ijYQIIVswQ=
 github.com/ghodss/yaml v1.0.0/go.mod h1:4dBDuWmgqj2HViK6kFavaiC9ZROes6MMH2rRYeMEF04=
-github.com/github/go-spdx/v2 v2.7.0 h1:GzfXx4wFdlilARxmFRXW/mgUy3A4vSqZocCMFV6XFdQ=
-github.com/github/go-spdx/v2 v2.7.0/go.mod h1:Ftc45YYG1WzpzwEPKRVm9Jv8vDqOrN4gWoCkK+bHer0=
+github.com/github/go-spdx/v2 v2.7.1 h1:+siV9wnsncI5pg4otH/sKvqGL8UkcLdPh16TSJYY1V4=
+github.com/github/go-spdx/v2 v2.7.1/go.mod h1:Ftc45YYG1WzpzwEPKRVm9Jv8vDqOrN4gWoCkK+bHer0=
 github.com/gkampitakis/ciinfo v0.3.4 h1:5eBSibVuSMbb/H6Elc0IIEFbkzCJi3lm94n0+U7Z0KY=
 github.com/gkampitakis/ciinfo v0.3.4/go.mod h1:1NIwaOcFChN4fa/B0hEBdAb6npDlFL8Bwx4dfRLRqAo=
 github.com/gkampitakis/go-snaps v0.5.23 h1:okh5QR48zpUjpWtu65AtqxdCY8huJq+dEDuUzd1PuKg=
@@ -563,8 +563,8 @@ github.com/googleapis/gax-go/v2 v2.24.0/go.mod h1:IaTHBDd7NHxSCiu0vEs8pQZu4dGZrW
 github.com/gookit/assert v0.1.1 h1:lh3GcawXe/p+cU7ESTZ5Ui3Sm/x8JWpIis4/1aF0mY0=
 github.com/gookit/assert v0.1.1/go.mod h1:jS5bmIVQZTIwk42uXl4lyj4iaaxx32tqH16CFj0VX2E=
 github.com/gookit/color v1.2.5/go.mod h1:AhIE+pS6D4Ql0SQWbBeXPHw7gY0/sjHoA4s/n1KB7xg=
-github.com/gookit/color v1.6.1 h1:KoTnDxJPRgrL0SoX0f8rCFg2zI0t4E3GZZBMo2nN8LU=
-github.com/gookit/color v1.6.1/go.mod h1:9ACFc7/1IpHGBW8RwuDm/0YEnhg3dwwXpoMsmtyHfjs=
+github.com/gookit/color v1.6.2 h1:M6TJRJMuDFPYkrWmjOvMj+E0xIjcHq8lMPy7+vv0z1Y=
+github.com/gookit/color v1.6.2/go.mod h1:9ACFc7/1IpHGBW8RwuDm/0YEnhg3dwwXpoMsmtyHfjs=
 github.com/gorilla/mux v1.8.1 h1:TuBL49tXwgrFYWhqrNgrUNEY92u81SPhu7sTdzQEiWY=
 github.com/gorilla/mux v1.8.1/go.mod h1:AKf9I4AEqPTmMytcMc0KkNouC66V3BtZ4qD5fmWSiMQ=
 github.com/gpustack/gguf-parser-go v0.26.3 h1:F63PlUPIW56HGU5k4Crv0JAG9ojtz/TuwzgMYlb82Ec=
